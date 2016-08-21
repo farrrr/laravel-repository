@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+## PHPStorm
+.idea/
+### Laravel
+vendor/
+.phpstorm.meta.php
+_ide_helper.php
